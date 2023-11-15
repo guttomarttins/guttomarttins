@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-<img width="200" height="200" src="https://github.com/guttomarttins/guttomarttins/assets/2126032/350267d2-6a36-4abc-a56a-dbe4fbb5b9ff" alt="my banner">
+<img width="1600" height="250" src="https://github.com/guttomarttins/guttomarttins/assets/2126032/7dc364ff-d3bc-4f6d-976a-d920afcd5324" alt="my banner">
 </p>
 <!--
 Here are some ideas to get you started:
