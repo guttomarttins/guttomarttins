@@ -1,8 +1,9 @@
 ### Hi there 👋
 
+<p align=”center”>
+<img width=”200" height=”200" src=”https://www.canva.com/design/DAF0OUcJOGE/CkHeCcjLMVsqjjAe6BvJ1w/view?utm_content=DAF0OUcJOGE&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt=”my banner”>
+</p>
 <!--
-**guttomarttins/guttomarttins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
