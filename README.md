@@ -1,12 +1,13 @@
 ### Hi there 👋
 
 <p align=”center”>
-<img width=”200" height=”200" src=”https://www.canva.com/design/DAF0OUcJOGE/CkHeCcjLMVsqjjAe6BvJ1w/view?utm_content=DAF0OUcJOGE&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt=”my banner”>
+<img width=”200" height=”200" src=”https://github.com/guttomarttins/guttomarttins/assets/2126032/e629ca11-417d-4e6f-be1e-b37c3fe0bb25" alt=”my banner”>
 </p>
 <!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
