@@ -33,6 +33,7 @@ BACK - END
 ![docker](https://img.shields.io/badge/Docker-yellow?style=for-the-badge&logo=docker)
 ![powershell](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-gray?style=for-the-badge&logo=aws)
+![GCP](https://img.shields.io/badge/GCP-green?style=for-the-badge&logo=Google-Cloud)
 
 FRONT - END
 
@@ -61,6 +62,8 @@ FRONT - END
 ![androidstudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![netbeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
 ![notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini-gray?style=for-the-badge&logo=Google-Gemini)
+![Copilot](https://img.shields.io/badge/Copilot-blue?style=for-the-badge&logo=MS-Copilot)
 
 <h4>Estatisticas</h4> 
 
